@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning ... humans lol_xd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
-- 💫 instagram: qutypie_piu 
+- 
   
-  ⚒️Join : https://discord.gg/Rqdx38Gdfn
+⚒Join : https://discord.gg/Rqdx38Gdfn
 
  INSTAGRAM https://www.instagram.com/qutypie_piu/ 
 
