@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @QUTYPIE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @QUTYPIE <3
+- 👀 I’m interested in ... World 
+- 🌱 I’m currently learning ... humans lol_xd
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..
+- 💫 instagram: qutypie_piu 
+  ⚒️JOIN : https://discord.gg/Rqdx38Gdfn
+
+ INSTAGRAM https://www.instagram.com/qutypie_piu/ 
+
+TWITTER https://mobile.twitter.com/QUTYPIEPIU
+
+{ DEVELOPER }
 
 <!---
 QUTYPIE/QUTYPIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
