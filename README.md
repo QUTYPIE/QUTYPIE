@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # About Me:
 
-I'm Aayan ,<br>From Assam, India, <br>Worked at AutoCode Inc as BackEnd Developer <br>
+I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student AutoCode Developer <br>
 
 ##  Socials:
 
