@@ -34,11 +34,23 @@ ___
 ---
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=QUTYPIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- <h1 align="center">Hello, world! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25"></h1> -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=QUTYPIE&theme=dark&hide_border=false)<br/>
+<img src="QUTYPIE.png" style="border-radius:25px">
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QUTYPIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=QUTYPIE&show_icons=true&theme=dark"> -->
+
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=QUTYPIE&label=Profile%20views&color=0e75b6&style=flat" alt="QUTYPIE" /> </p> -->
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=QUTYPIE&show_icons=true&locale=en&theme=dark" alt="diwasatreya" />
+
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=QUTYPIE&show_icons=true&locale=en&layout=compact&theme=dark" alt="QUTYPIE" /></p> -->
+
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=QUTYPIE&theme=dark" alt="QUTYPIE" /> -->
+
+
 
 
 
