@@ -41,7 +41,13 @@ I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student Aut
 
 
 ---
+##  GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=QUTYPIE&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=QUTYPIE&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ##  You can help me by Donating
 
