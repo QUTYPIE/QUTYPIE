@@ -31,11 +31,11 @@ I'm Aayan ,<br>From Assam, India, <br>Worked at AutoCode Inc as BackEnd Develope
 
 # GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AAYAN717628&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=QUTYPIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AAYAN717628&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=QUTYPIE&theme=dark&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AAYAN717628&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=QUTYPIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
