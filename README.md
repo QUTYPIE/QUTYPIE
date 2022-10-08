@@ -1,17 +1,9 @@
-- 👋 Hi, I’m @QUTYPIE <3
-- 👀 I’m interested in ... World 
-- 🌱 I’m currently learning ... humans lol_xd
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-- 
-  
-⚒Join : https://discord.gg/Rqdx38Gdfn
 
- INSTAGRAM https://www.instagram.com/qutypie_piu/ 
 
-TWITTER https://mobile.twitter.com/QUTYPIEPIU
 
-{ DEVELOPER }
+
+
+
 
 <!---
 QUTYPIE/QUTYPIE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +13,17 @@ You can click the Preview link to take a look at your changes.
 
 I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student AutoCode Developer <br>
 
+📫 How to reach me ..
+
+
+
+⚒Join : https://discord.gg/Rqdx38Gdfn
+
+INSTAGRAM https://www.instagram.com/qutypie_piu/
+
+TWITTER https://mobile.twitter.com/QUTYPIEPIU
+
+{ DEVELOPER }
 ##  Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Z4tKgfgj9Y) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aayan_07) 
