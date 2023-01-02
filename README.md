@@ -16,7 +16,7 @@ I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student Aut
 📫 How to reach me ..
 
 
-
+---
 [⚒Join Discord](https://discord.gg/fz8QMYdVDq)
 ___
 [🔴 INSTAGRAM](https://www.instagram.com/qutypie_piu/)
@@ -41,7 +41,7 @@ ___
 
 
 
-
+---
 # GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=QUTYPIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -66,7 +66,7 @@ ___
   <img src="https://visitcount.itsvg.in/api?id=QUTYPIE&label=VIEWERS&pretty=false" />
 
 </a>
-
+---
   ##  You can help me by Donating
 
 
