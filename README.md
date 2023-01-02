@@ -17,14 +17,14 @@ I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student Aut
 
 
 
-⚒Join : https://discord.gg/fz8QMYdVDq
+[⚒Join Discord](https://discord.gg/fz8QMYdVDq)
 ___
-🔴 INSTAGRAM https://www.instagram.com/qutypie_piu/
+[🔴 INSTAGRAM](https://www.instagram.com/qutypie_piu/)
 ___
-🔵 TWITTER https://mobile.twitter.com/QUTYPIEPIU
+[🔵 TWITTER](https://www.twitter.com/QUTYPIEPIU)
 ---
 
-🔹OWNER OF GALAXY BOT  : https://dsc.gg/invite-galaxy-gg
+[ INVITE GALAXY BOT ](https://dsc.gg/invite-galaxy-gg)
 ---
 ##  Socials:
 
