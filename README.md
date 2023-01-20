@@ -17,6 +17,7 @@ I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student Aut
 
 
 ---
+##  Socials:
 
 [⚒Join Discord](https://discord.gg/fz8QMYdVDq)
 
@@ -37,7 +38,7 @@ ___
   ##  💰 You can help me by Donating (741253.famc@idfcbank)
   ___
   
-##  Socials:
+
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]( https://discord.gg/fz8QMYdVDq) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/qutypie) 
 ---
