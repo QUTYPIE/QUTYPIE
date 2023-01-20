@@ -34,7 +34,7 @@ ___
 
 ___
 
-  ##  [You can help me by Donating](741253.famc@idfcbank)
+  ##  💰 You can help me by Donating (741253.famc@idfcbank)
   ___
   
 ##  Socials:
