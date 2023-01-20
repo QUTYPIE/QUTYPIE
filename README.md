@@ -31,6 +31,12 @@ ___
 
 [ INVITE GALAXY BOT ](https://dsc.gg/invite-galaxy-gg)
 ---
+
+___
+
+  ##  [You can help me by Donating](741253.famc@idfcbank)
+  ___
+  
 ##  Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]( https://discord.gg/fz8QMYdVDq) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/qutypie) 
@@ -72,7 +78,7 @@ ___
 
 </a>
 ---
-  ##  You can help me by Donating
+  ##  THANK YOU FOR VISIT MY PROFILE 
 
 
 
