@@ -29,7 +29,7 @@ ___
 [🔵 TWITTER](https://www.twitter.com/QUTYPIEPIU)
 ---
 
-[ INVITE GALAXY BOT ](https://dsc.gg/invite-galaxy-gg)
+[➕ INVITE GALAXY BOT ](https://dsc.gg/invite-galaxy-gg)
 ---
 
 ___
