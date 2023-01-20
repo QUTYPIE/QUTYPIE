@@ -20,11 +20,11 @@ I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student Aut
 
 [⚒Join Discord](https://discord.gg/fz8QMYdVDq)
 
-___
+
 
 [🔴 INSTAGRAM](https://www.instagram.com/qutypie_piu/)
 
-___
+
 
 [🔵 TWITTER](https://www.twitter.com/QUTYPIEPIU)
 ---
