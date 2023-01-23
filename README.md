@@ -79,7 +79,9 @@ ___
 
 </a>
 ---
-  ##  THANK YOU FOR VISIT MY PROFILE 
+<!--START_SECTION:waka-->
+
+![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2055%20mins-red) 
 
 
 
