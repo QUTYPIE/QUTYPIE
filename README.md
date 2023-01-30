@@ -15,7 +15,7 @@ I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student Aut
 
 📫 How to reach me ..
 
-
+![](https://discord.c99.nl/widget/theme-3/947891831516065834.png)  
 ---
 ##  Socials:
 
