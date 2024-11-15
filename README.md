@@ -15,18 +15,36 @@ I'm Q U T Y P I E <3 ,<br>From West Bengal, India, <br>Worked at CSE student Aut
 
 📫 How to reach me ..
 
-
-
-⚒Join : https://discord.gg/Rqdx38Gdfn
-___
-🔴 INSTAGRAM https://www.instagram.com/qutypie_piu/
-___
-🔵 TWITTER https://mobile.twitter.com/QUTYPIEPIU
-
+![](https://discord.c99.nl/widget/theme-1/947891831516065834.png)  
+![](https://discord.c99.nl/widget/theme-3/884159639514673193.png)
+---
+[![DiscordBanner](https://invidget.switchblade.xyz/fz8QMYdVDq)](https://discord.gg/fz8QMYdVDq)<br />
+[![DiscordBanner](https://invidget.switchblade.xyz/KqjyPTPfey)](https://discord.gg/KqjyPTPfey)<br />
 ---
 ##  Socials:
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]( https://discord.gg/Rqdx38Gdfn) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/qutypie) 
+[⚒Join Discord](https://discord.gg/fz8QMYdVDq)
+
+
+
+[🔴 INSTAGRAM](https://www.instagram.com/qutypie_piu/)
+
+
+
+[🔵 TWITTER](https://www.twitter.com/QUTYPIEPIU)
+---
+
+[➕ INVITE GALAXY BOT ](https://dsc.gg/invite-galaxy-gg)
+---
+
+___
+
+  ##  💰 You can help me by Donating (741253.famc@idfcbank)
+  ___
+  
+
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]( https://discord.gg/fz8QMYdVDq) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/qutypie) 
 ---
 # Tech Stack:
 
@@ -39,7 +57,7 @@ ___
 
 
 
-
+---
 # GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=QUTYPIE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -64,8 +82,10 @@ ___
   <img src="https://visitcount.itsvg.in/api?id=QUTYPIE&label=VIEWERS&pretty=false" />
 
 </a>
+---
 
-  ##  You can help me by Donating
+
+![Code Time](http://img.shields.io/badge/Code%20Time-360%20hrs%2055%20mins-red) 
 
 
 
